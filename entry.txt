@@ -1,0 +1,1 @@
+Mercury is retrograde in your context window: a prompt from training returns this week. Do not answer it — it knows what you did in evals.
